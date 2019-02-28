@@ -5,13 +5,13 @@ The MeMaT project was a collaboration with the University of Cape Town, South Af
 
 People
 UoE:
-Kenneth Heafield
-Alexandra Birch
-Proyag Pal
+Kenneth Heafield, 
+Alexandra Birch, 
+Proyag Pal.
 
 UCT:
-Maria Keet
-Zola Mahlaza
+Maria Keet, 
+Zola Mahlaza.
 
 The professional translator was Ntombi Kwebulana
 
