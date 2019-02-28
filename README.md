@@ -15,4 +15,5 @@ Zola Mahlaza.
 
 The professional translator was Ntombi Kwebulana
 
-The data is available CC-BY, unless specified differently.
+###### Use and reuse
+The data is available under a CC-BY licence, unless specified differently (e.g., the mobile-xhosa data has the stricter CC NC-SA licence).
