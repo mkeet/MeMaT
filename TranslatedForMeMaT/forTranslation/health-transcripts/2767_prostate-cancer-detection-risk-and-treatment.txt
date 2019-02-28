@@ -1,0 +1,312 @@
+My prostate biopsy report states that: periprostatic fat invasion, seminal vesicle invasion, lymph-vascular and perineural invasion are all NOT IDENTIFIED.
+Does that mean it was "not observed" in the sample or that the pathologist simply cannot divine that information from the sample?
+These features cannot be determined on a biopsy, only on a prostatectomy pathological assessment.
+Is the spread of prostate cancer beyond the prostate truly discernible only during/after the prostatectomy?
+There are many imaging tests that can be utilized prior to surgery.
+These include MRI of the prostate, CT of the abdomen and pelvis, and whole-body bone scans.
+There are other emerging imaging techniques that include PET scanning using specific metabolites like sodium fluoride and choline acetate.
+The decision as to the need for imaging studies will be discussed with your doctors.
+PSA screening recommendations vary and change over time.
+The current recommendations from the American Urological Association recommend PSA testing at one to two year intervals.
+Prostate biopsy may be considered once the PSA exceeds more than 2.5 ng/mL in young healthy men.
+A prostate exam is a necessary part of the screening approach, and I recommend that all patients have a DRE along with the PSA.
+Following radiation treatment, how is success measured/determined?
+The PSA nadir (the lowest PSA level after treatment) and the stability of PSA over time are used to determine treatment success after radiation.
+Good morning doctors.
+In addition to the PSA and the rectal exam, what are the most common indicators that something could be wrong with the prostate?
+Thanks.
+The rate of rise in the PSA over time (PSA velocity) and the free:total PSA ratio.
+Additional, commercially available tests (e.g., Prostate Health Index, 4K score) may be helpful to determine the risk of having aggressive prostate cancer among men with elevated PSA.
+How long after stereotactic radiation treatment of the prostate will the results be known, and what are the possible long-term side effects of this treatment?
+Radiation treatments may negatively affect bowel, bladder and sexual function and may increase the risk of developing a bladder or rectal cancer in the future.
+What questions do I need to ask my doctor to fully understand my biopsy results?
+There are many things you need to review with your doctor once you have been diagnosed with prostate cancer.
+You want to know how many biopsy cores were positive and what was the Gleason score of your biopsy.
+Along with this, you must discuss your PSA and the rectal examination.
+Taking these three factors together along with your age and other medical issues, you can review what choices you have regarding treatment selection.
+I am 59.
+My PSA is at currently at 14.
+I have had three biopsies over the last four years from three doctors and no cancer was found.
+I have also had an ultrasound and CT scan.
+Each show only that I have an enlarged prostate.
+My PSA tends to vary up and down from 8 to 14 each time I have it checked.
+I am an avid cyclist.
+Will this cause my PSA scores to fluctuate?
+Should I continue to get biopsies or just watch and wait?
+As you are young and your PSA is quite high, I would recommend additional tests such as a 4K score, Prostate Health Index (PHI) or PCA3 to determine your risk of having high-grade cancer if you are reluctant to undergo another biopsy.
+If you are open to having another biopsy (which would be my typical recommendation), I typically would perform a multiparametric MRI of the prostate prior to the biopsy and then target specific abnormal areas identified on the MRI at the time of the biopsy.
+Several institutions (including ours) have technology to perform targeted biopsy using MRI-ultrasound fusion, which has been reported to be more effective at finding important cancers than the typical biopsy approach.
+In their Clinical Guideline, the US Preventative Screening Task Force recommends against PSA screening.
+I have been screened and have received biopsy results indicating the presence of cancer.
+Is there anything about the task force recommendation that is relevant at this point?
+No.
+The task force recommendation only applies to the decision to undergo PSA screening.
+I had a biopsy after a PSA of 8.5 that had increased gradually over the last 10 years.
+I had a Gleason score of 3+4, one of 12 samples was cancerous, two others had high PIN, another nine were benign.
+Of one of the cancerous samples, only 10 percent of tissue was involved.
+My digital rectal exam was normal.
+I'm doing active surveillance and a special diet.
+I see Dr. Aaron Katz, etc., and Wayne Kuang is my urologist (he trained at Cleveland Clinic).
+We will do a PSA again, yet it doesn't seem like the best indicator, and a biopsy is the only way to sort out the next steps.
+I did a biopsy in May.
+How soon would you suggest I do another biopsy?
+Any other comments/thoughts?
+Thanks.
+For men on active surveillance, I typically do PSAs two times per year with a prostate exam and repeat prostate MRI with or without biopsy every two to three years if all other clinical indicators are stable.
+There may be benefit to taking a 5-alpha reductase (e.g., dutasteride, finasteride) on surveillance, as it has been shown in some studies to be associated with a lower likelihood of needing treatment.
+It may make the PSA, DRE and biopsy better tests for monitoring your cancer.
+I had a prostate biopsy performed here in Maryland.
+I received a Gleason 3+3=6 score.
+I noted that no attempt was made to assign a T score (T1-TX).
+Can that accurately be determined in a biopsy (since it appears that one is "poking in the dark" to find cancer and can miss it)?
+If the decision to perform the biopsy was for an elevated PSA and not because of an abnormal prostate cancer, you would be classified as T1c.
+I recommend a repeat biopsy within six months for low-risk patients on active surveillance, as 20 percent to 30 percent of such patients will be found to have more important cancer for which treatment may be considered.
+We are now doing multiparametric MRI and targeted fusion biopsy in these patients with good results.
+Provided that the repeat biopsy confirms favorable features, our surveillance protocol involves PSA testing two times per year and repeat MRI with or without biopsy every two to three years.
+Can/does an abdominal CT scan typically show metastasis (e.g., spread to lymph nodes or other tissue)?
+Yes, but seldom is a CT necessary for men who do not have high-grade cancer of a very high PSA level (e.g., higher than 20 ng/mL).
+How "accurate" are Gleason scores at assessing prostate cancer?
+A Gleason score is a very useful marker to assess a cancer's aggressiveness.
+Gleason 6 cancers are slow-growing.
+Gleason 8-9 cancers are aggressive.
+Gleason 7 cancers can be very heterogeneous in terms of growth/aggressiveness.
+What is the genomic testing?
+Genomic testing is a series of tests that can be done in different tumors to determine the "make-up" of someone's cancer.
+Results of these tests can help guide therapy.
+In prostate cancer, there are several genomic testing methods that can be utilized after either a biopsy or surgery to define the risk of recurrence and metastases and thus define other necessary interventions.
+I was diagnosed with a Gleason score of 3+4=7 and a PSA of only 1.77.
+I received cryoablation of the prostate.
+How would the surgeon know if he killed all of the cancer cells?
+And with a PSA of only 1.7, how will they monitor me for recurrence?
+Early on in the setting of the disease, PSA values are probably the most utilized tests to define disease recurrence.
+The PSA follow up varies, however.
+Patients often have PSA values every three to six months.
+What is a Gleason score?
+What is DRE and PINS?
+Gleason score is a measure of how "abnormal" the prostate cancer appears under the microscope, which correlates very closely with aggressiveness.
+A DRE is a digital rectal examination (what the physician feels when the prostate is examined).
+PIN is prostatic intraepithelial neoplasia, a premalignant lesion found on biopsy of the prostate that may be associated with having an increased risk of prostate cancer on subsequent biopsy.
+How do I understand the biopsy/Gleason numbering system?
+All mine were a 7?
+Gleason Score Sum is often utilized along with your PSA and rectal exam to define what risk your disease is.
+We stratify patients into low-risk, intermediate-risk and high-risk disease.
+Your Gleason score alone means you have intermediate-risk prostate cancer.
+Your PSA, DRE and the percentage of positive biopsies are also important predictors for aggressiveness.
+I am 62 and have no family history of prostate cancer.
+For 10 years, I have had negative digital exams and prostate ultrasound imaging without bp hyperplasia.
+I have a healthy lifestyle (except smoking) and eat a mostly plant-based diet.
+In spite of the above, over the last four years, I've been making one or two nighttime visits to the bathroom, and from time to time, I get the feeling of urgent urination during the day.
+My PSA started at 1 in 1993 and gradually climbed up to 1.86 in 1999, 1.65 in 2005, and now it is 2.41.
+What do you suggest I do?
+Thanks in advance.
+The PSA can fluctuate over time in men with prostate cancer and in men with benign enlargement.
+The PSA pattern you have described does not indicate a rapid rise.
+We typically do not recommend further investigation (e.g., biopsy or MRI) in men until the PSA level is greater than 2.5 ng/mL.
+There are additional tests that are available called the 4K score and PHI (Prostate Health Index) that can be used to decide upon the need for a biopsy among men with a rising PSA level.
+With a PSA of 8.5, a Gleason score of 3+4, a normal digital rectal exam, one positive of 12 samples, yet two high PINS and 10 percent tissue with cancer from one positive core, does it seem like active surveillance is logical?
+I typically restrict active surveillance to men with a life expectancy greater than 20 years and to those with low-risk prostate cancer (Gleason score of 6, PSA less than 10).
+Surveillance is appropriate for men with life expectancy less than 20 years if they have a low volume Gleason 3+4 prostate cancer.
+It is important that men undergo repeat biopsy with or without genomic testing (e.g., OncotypeDx or Prolaris) to confirm favorable pathological findings before committing to active surveillance, as about 20 percent to 30 percent of patients thought to be eligible for surveillance based on the initial biopsy will have more aggressive disease found at a repeat biopsy.
+I have been diagnosed with T1c prostate cancer, with two core biopsies out of 14 showing 10 percent adenocarcinoma and 7 percent respectively.
+My Gleason score was 6 (3+3) in both cores.
+What are the pros and cons of active surveillance versus prostatectomy immediately?
+Men with low-risk prostate cancer have a high likelihood of cure with surgery.
+Robotic surgery is a safe procedure associated with low risk of complications.
+The long-term side effects are urinary incontinence and erectile dysfunction.
+When performed by an experienced surgeon with a track record of success, the likelihood of long-term incontinence and erectile dysfunction are low.
+With active surveillance, the likelihood of suffering from one's diagnosis is low (re: metastatic prostate cancer), and these patients may not need any treatment over their lifetime.
+This avoids the potential risks of incontinence/sexual dysfunction associated with surgery.
+The downside is a low but defined risk of developing incurable prostate cancer under observation and the possibility that, if treatment is needed, the risks of side effects may be greater if the disease is more advanced/aggressive when treatment is initiated.
+What differences have been observed between prostatectomy and radiotherapy in survival rates and in the severity of long-term side effects?
+There is no prospective data comparing the outcome of surgery versus radiation therapy.
+Outcome of treatment not only is dependent on the treatment received, but also on your biology (stage, PSA and Gleason score).
+There are indeed differences in side effects, specifically when you look at urinary incontinence, erectile dysfunction and, specifically for radiation therapy, the risk for rectal issues and in the long-term secondary malignancies.
+With biopsy results indicating Gleason scores of 6-7 in nine out of 12 samples, what treatment options should I consider?
+Is active surveillance an option?
+What additional testing, if any, should I consider prior to pursuing treatment?
+For high-volume Gleason 7 cancers in otherwise healthy men with life expectancies greater than 10 years, we would typically discourage active surveillance, though this may be reasonable for older men and/or those with important health conditions (i.e., life expectancy less than 10 years).
+For cases such as yours, robotic prostatectomy, external beam radiotherapy, brachytherapy and cryotherapy are all reasonable to consider.
+The nature of these treatments varies considerably and are associated with a unique set of side-effects, but all would give a similar probability of cure.
+I am 76 years old, I have a PSA of 15.5, up from 11.5 six months ago.
+A biopsy showed a Gleason score of 9.
+What is the recommended treatment?
+I am sorry to hear of your diagnosis.
+You do appear to have high-risk prostate cancer (based on your Gleason score of 9).
+I would like to know if any additional imaging studies have been completed to rule out metastatic disease.
+If there is no evidence of metastases and you qualify and are interested in local definitive therapy with either surgery or radiation therapy, it is important to remember that one treatment alone might not be enough.
+We believe patients with high-risk disease required a multidisciplinary approach.
+For example, if one chooses radiation therapy, patients with high-risk disease need to receive hormone therapy along with radiation.
+I always suggest to discuss clinical trials as well.
+There is no role for hormones prior to surgery if, indeed, surgery is the choice for you.
+Hormones alone do not cure prostate cancer.
+I understand the treatment recommendations from medical experts for high and low Gleason scores.
+What is the best way to decide on treatment if Gleason scores are intermediate?
+What treatment do you recommend with 6s and 7s on 9-point biopsy?
+For some men with Gleason 7 cancers, I recommend immediate treatment with either surgery, external-beam radiotherapy, brachytherapy, and/or cryotherapy.
+For others, I may recommend active surveillance.
+It depends upon the biopsy and clinical features, the patient’s health and age, and their long-term treatment goals.
+Genomic testing using commercially available assays such as OncotypeDx or Prolaris may provide insight into the behavior of Gleason 7 cancers, which may persuade physicians/patients to pursue treatment versus observation.
+I have found these tests to be helpful to me for some patients.
+For the past year and a half, my PSA has been hovering around 5.
+My internist does not seem to be in favor of a prostate biopsy, and we are practicing watchful waiting.
+Can you give me some suggestions on how to proceed?
+What is the best treatment?
+How significant is a PSA number of 5?
+The PSA level is strongly correlated with having prostate cancer and aggressive prostate cancer.
+Depending on your age, a PSA rise may be very significant.
+One's risk of having prostate cancer may be estimated using several sources that you can access online (e.g., Google "PCPT calculator").
+One's risk of having high-grade cancer may be assessed using several commercially available tests (e.g., 4K score, Prostate Health Index - PHI).
+These may be useful to do if your physician is uncertain about the need for a biopsy.
+I am 59.
+My PSA is currently at 14.
+I have had three biopsies over the last four years from three doctors, and no cancer was found.
+I have also had an ultrasound and CT scan, each say only that I have an enlarged prostate.
+My PSA tends to vary up and down from 8 to 14 each time I have it checked.
+I am an avid cyclist.
+Will this cause my PSA scores to fluctuate?
+Should I continue to get biopsies or just watch and wait?
+In men with high PSA levels despite negative biopsies, we have found the use of multiparametric MRI and fusion biopsy to be helpful to identify important cancers that may have been missed on prior biopsies.
+For men older than 70 years with life expectancy less than 20 years, all treatment options are reasonable to consider, including surgery, radiation therapy, brachytherapy, cryotherapy and watchful waiting/active surveillance.
+There are pros/cons to each of these options.
+It would be helpful to meet with a prostate cancer expert in surgery, radiation and medical oncology to go over the pros/cons of each of these options.
+All treatment options are reasonable to consider, including surgery (robotic or open prostatectomy), external-beam radiotherapy (including SBRT), brachytherapy, cryotherapy and observation.
+There are pros/cons to each of these approaches.
+The best decision is based on our treatment goals and preferences.
+It would be helpful to meet with experts in surgery and radiation therapy to get different perspective of the merits of treatment versus observation.
+SBRT is performed with increasing frequency at our institution with acceptable preliminary results.
+It not yet considered a standard approach.
+I have been diagnosed with both prostate cancer and BPH.
+In addition to the cancer itself, how much should BPH factor into my treatment option decision?
+I am 58 years old, with (already) a 50 gram prostate.
+In my personal and professional opinion, your gland size should not matter that much.
+What is the prognosis and treatment when the prostate was cancerous and was removed, and cancer was found in the femur?
+If you have documented metastatic disease, you will need to discuss with you doctors available treatment options for your disease.
+Testosterone suppression with either orchiectomy or hormonal therapy with or without chemotherapy is the standard management for men with metastatic disease.
+Radiation therapy and sometimes surgery can be utilized for bone metastases.
+In deciding among treatments (surgery, radiotherapy, brachytherapy and/or cryotherapy), what are the key points to discuss with my doctor?
+I am 63 and in good health but my biopsy results show a Gleason of 6-7 (my PSA is 5).
+Key points to discuss include: 1) Cancer control probability, 2) likelihood of needing additional treatments to control your disease, 3) bladder dysfunction, 4) erectile dysfunction and 5) bowel dysfunction.
+How long can I expect for recovery?
+How many days in the hospital?
+What preparation will I need to do?
+If the question is for robotic prostate surgery, most patients will go home from the hospital the day after surgery, and resumption of normal activities can be done within three weeks.
+Dose Cleveland Clinic perform "energy-free" robotic prostatectomies (to better preserve sexual function)?
+Yes.
+Most of our prostate cancer surgical experts perform "energy-free" nerve-sparing procedures.
+What is energy-free robotic prostatectomy?
+This is a technique to preserve the nerves that are important for erections.
+It does not use thermal energy to dissect around the prostate, as thermal energy may damage the nerves.
+I have been told to seek out an "experienced" surgeon for robotic surgery.
+Could you please define "experienced."
+(How many procedures successfully completed?
+Results?, etc.)
+Experience is important, but most important is the surgeon's track record of results.
+Ask your surgeon to provide his/her own data on outcomes such as positive margins, incontinence, sexual dysfunction, operative time, complications, etc.
+In general, more experienced surgeons tend to have better outcomes, but results among high- and low-volume surgeons may vary considerably–- both positively and negatively.
+Please explain stereotactic radiation treatment.
+Stereotactic radiation is high-intensity, focused therapy typically given to treat bone metastases for symptom relief.
+It is not used as primary treatment for prostate cancer outside of experimental situations.
+Is follow-op (salvage) prostatectomy possible after prostate cryosurgery?
+It is possible to perform, but morbidity (side-effects) is considerably higher.
+Is prostate cryosurgery still considered "new/experimental"?
+No.
+Are there truly better outcomes with robotic surgery versus radical prostatectomy with qualified and experienced surgeons?
+The most important component to a successful outcome with surgery is the skill and expertise of the individual surgeon, whether that surgeon performs robotic or open surgery is less important.
+I don't know if there is time for this question, but I am told Cleveland Clinic is a "teaching hospital."
+Are there situations when the doctor (urologist/surgeon) you speak with prior to surgery does not perform the surgery (i.e., a fellow performs it )?
+Fellows/residents are involved in delivering care at all teaching hospitals, including in the Clinic, on the patient wards, in the emergency department and in the operating room.
+For the cases that I perform, senior-level residents and fellows do perform aspects of my surgery under my direct supervision.
+However, I perform all the critical parts of the prostate surgery related to cancer control, bladder control and sexual function.
+I suspect most surgeons at teaching hospitals employ a similar approach as mine.
+But it is important that you ask the surgeon specifically what parts of the operation he/she will perform and what aspects you could expect a resident/fellow to perform.
+Also, ask the surgeon whether she/he will be present in the operating room for the entire case.
+Are prostatectomies ever performed due to BPH alone?
+I am 58 and have been told that my prostate is already the size of a typical 80-year-old's.
+Or are 5α-reductase inhibitors always the choice to help control long-term prostate growth?
+I would not remove my prostate for BPH alone.
+Thus, the simple answer is NO, we traditionally do not do radical prostatectomy.
+There are other treatment options including transurethral resections, but these are commonly done to improve symptoms rather than to completely remove your gland.
+Why are prostate patients previously treated via radiology unsuitable as patients for follow-op surgery?
+What does radiation do to the tissue that precludes follow-up surgery?
+Most of the challenges of doing surgery after radiation to the prostate gland are related to the stage of the disease and the likelihood of achieving the desired results – cure.
+Although indeed technically more challenging, you do need someone with expertise to define if surgery is indeed in your best interest and to discuss the potential side effects of such an approach.
+I have a 50 gram prostate (as stated by my urologist during ultrasound biopsy).
+Does the size of my prostate rule out brachytherapy (or any other radiotherapy) as an option?
+No.
+Abiraterone acetate is a selective adrenal inhibitor that, indeed, is expensive but also quite effective for men with castration-resistant prostate cancer.
+In the past, we used ketoconazole; however, there is no survival benefit with that agent.
+I would not be opposed to using ketoconazole in the right setting for specific patients.
+My Gleason score is 9.
+I was treated with Firmagon followed by Lupron.
+My PSA started at 31.
+One month after my first treatment, my PSA dropped to 4.5.
+The second month it dropped to .07.
+Exactly what does that indicate: The cancer shrank?
+There was no outside-of-prostate metastasizing?
+The hormonal therapy is working?
+It can be discontinued?
+When?
+Is it the most effective treatment for hot flashes?
+Degarelix is a GnHR antagonist, and it blocks the signal between the brain and the testicles so you stop production of your testosterone.
+Your decline in PSA is expected and means your cancer is under control.
+I don’t know if you have cancer outside the prostate based on your post.
+We only discontinue hormones in specific cases.
+For example, if you are getting hormones while receiving radiation therapy or if you have initiated hormones for advanced prostate cancer.
+I tend to use gabapentin or Effexor for hot flashes.
+I am having Firmagon hormonal therapy accompanied by frequent hot flashes.
+How do I relieve the frequency and discomfort of the flashes?
+You can discuss with you doctors oral medications such as Effexor and gabapentin.
+These agents can significantly reduce the frequency of this side effect from the lack of testosterone.
+I've been diagnosed with prostate cancer and will be coming to Cleveland Clinic for treatment.
+Who should I see first, urologist, oncologist, both?
+It really depends of what your needs are.
+If you are high-risk, we often work in a multidisciplinary team.
+Thus, a medical oncologist, radiation oncologist and urologist would be adequate.
+What are the learning curves for IMRT and robotic surgery, and what experience level should I require in a physician that I choose to perform one or the other procedure?
+I would ask your surgeon and radiotherapists specifically about their outcomes and experience.
+This is more important than case volume and learning curve.
+Some surgeons can perform high-quality robotic prostatectomy after 30 to 50 cases, and some may continue to do a substandard operations after several hundred cases.
+How can I find a urologist that I can trust?
+I began to write a long dissertation listing the reasons for my dissatisfaction with the Clinic urologists I have seen.
+Suffice it to say, I just want someone to tell me what is wrong and how I can be treated without making things so much worse.
+The current Clinic radio ads state "Innovative treatments for prostate cancer."
+What does that mean?
+How can I find out about those treatments?
+I am sorry you feel this way.
+I believe it is imperative for you to have the right team working with you.
+This will clearly maximize and improve your outcome.
+Although I agree educational background and experience in the field are a MUST, your bedside manners and how you communicate with patients is key to ensure there is a trust built between patients and their doctors.
+I would suggest to see the person you have discussed your situation with in the past and express how you feel about the management of your case.
+At Cleveland Clinic, we believe in patient communication and putting patients first.
+I trust you will be fine.
+I have experienced increased impotence since the beginning of prostate symptoms of pain/urinary problems/nocturia, etc.
+That said, I also started Rapaflo.
+Can prostate cancer (alone) cause impotence (e.g., if it spreads to nerve tissue)?
+Prostate cancer itself seldom causes erectile dysfunction unless it is at a very advanced stage.
+Is there any correlation between scrotal cancer and prostate cancer?
+No, there is not.
+I have a PSA of 8.5, a Gleason of 3+4.
+One of 12 samples from biopsy had adenocarcinoma with 10 of the tissues involved.
+I am very healthy and in great physical shape, even at 68.
+I also have a prostate of 41 grams, yet am experiencing BPH issues with an I-PSS score of 15.
+I assume surgery will also help address I-PSS issues?
+Surgery would be a reasonable approach to treat your cancer with a high probability of cure and acceptable side-effects when performed by skilled and experienced surgeons.
+BPH symptoms typically improve with surgery and tend to be exacerbated with radiation therapy and brachytherapy.
+When you say that a treatment has a high probability of "CURE," what does that mean?
+Does it mean that the survival of the man is equal to an analogous man without prostate cancer?
+Cure is defined as a PSA level that is undetectable after surgery and "stable" after radiation therapy.
+Do Gleason numbers affect the correlation between treatment and outcome?
+I do believe the Gleason score is a very strong predictor of outcome.
+The higher it is, the more aggressive your biology is.
+This does not mean that a patient with high Gleason score cannot be cured.
+Patients with high scores who undergo surgery or radiation therapy have a significant risk for recurrence.
+Are there any diet or lifestyle factors that can positively affect the success of prostate cancer treatment?
+Unfortunately, there is no great data supporting specific dietary factors that can either prevent or improve the outcome of prostate cancer.
+Having said that, many epidemiological studies have demonstrated a strong association between animal fat intake and cancer.
+I recommend all my prostate cancer patients to meet with a nutritionist and review dietary habits.
+Do you know the urologists and oncologists in Dallas, Texas?
+Would you think that there is expertise here or should we seek out experts elsewhere?
+If you feel comfortable doing so, what doctors or surgeons would you recommend in the Dallas area?
+I am sure there are many capable surgeons in the Dallas-Fort Worth region.
+I do not have a personal recommendation; however, Cleveland Clinic does offer online second opinions to patients.
+Please visit:my.clevelandclinic.org/online-services/myconsult.

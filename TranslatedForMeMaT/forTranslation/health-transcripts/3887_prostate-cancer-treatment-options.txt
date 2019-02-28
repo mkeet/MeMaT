@@ -1,0 +1,173 @@
+Is diet a factor at all with prostate cancer prevention and treatment?
+Yes.
+In parts of the world that consume a plant-based diet with little or no saturated fats, prostate cancer is an uncommon disease.
+Men with advanced prostate cancer that change to that diet have improved outcomes when undergoing treatment and during follow-up.
+What percentage of prostate cancer jumps into the bones?
+A very small percentage overall; however, the risk of bone metastases increases with higher Gleason scores and/or higher PSA at the time of diagnosis.
+Are there any supplements that may be worthwhile in preventing or diminishing the risk of prostate cancer?
+No, but reducing saturated fats and increasing the percentage of plant-based foods is helpful.
+Does erectile dysfunction after prostate cancer treatment also mean no climax/orgasm?
+No.
+Even if nerve-sparing surgery cannot be performed or is not successful, orgasm is preserved.
+However, if erections are lost from surgery or radiation, most patients can have erections restored with oral medicines, a vacuum erection device or injection therapy.
+A few may choose to undergo an implant.
+In November 2015, during my yearly urological exam, my urologist felt my prostate may be enlarging and could cause future urination problems.
+Is an enlarging prostate a possible sign of increasing chances for prostate cancer?
+What are the best procedures, if any, for reducing the size of the prostate?
+Prostate enlargement, benign prostatic hyperplasia (BPH), is universal in men starting at about 40 years of age.
+It does not increase the chances of developing prostate cancer.
+BPH does not always need treatment, usually only if there are significant difficulties urinating.
+In the past, surgery was the mainstay of treating BPH; now, most patients are treated with medical therapy.
+I know I have BPH (since age 65), and I’m having more nighttime urinary wake-ups at age 82+.
+I take finasteride and tamsulosin, get no caffeine, and my blood tests are OK (have some low HGB at 12.5).
+Is it possible to have cancer not show in the blood test?
+I’m having a PVR next week.
+It sounds like your main issue is incomplete response to medical therapy for BPH.
+If your PVR is significant, your doctor should consider evaluating you further with cystoscopy to look into the bladder and prostate.
+Although most patients can be managed with medicines now, some still require surgical treatment for BPH, especially if they develop chronic retention.
+My doctor prescribed alfusozin, which is supposed to relax or smooth the muscles at the bottom of the bladder to enable more urine to pass through.
+After a couple of years, I’ve received no discernible relief.
+He then prescribed finasteride, which is supposed to help shrink the prostate.
+Again, no help.
+I now have retrograde ejaculation and my prostate has enlarged where my doctor said he was concerned urination may become difficult.
+I have two questions: Could finasteride actually cause the prostate to grow instead of shrinking it?
+Can retrograde ejaculation be reversed?
+Finasteride should not cause the prostate to grow, but some growth might still occur while taking the medicine.
+Alfusozin is more likely to cause retrograde ejaculation and this should reverse itself if the medicine is discontinued.
+A positive margin does increase the possibility of having residual prostate cancer, but not all patients with a positive margin will need radiation therapy.
+I prefer to assess the post-op PSA and the patient’s recovery from surgery before making any recommendations.
+There is great debate on exactly when radiation should be used; but typically in cases like yours, I would favor close observation and consideration of radiation if the PSA were to rise.
+We recently published the world’s largest paper on this topic of salvage radiation after a prostatectomyhttps://www.ncbi.nlm.nih.gov/pubmed/27528718.
+I would like to know the best treatment option.
+My father did a prostate biopsy on January 11, 2016, and his diagnosis was “a minute focus of prostatic adenocarcinoma in the left mid zone, Gleason Grade 3+3=6/10, 1 out of 12 cores involved.
+An immunohistochemical analysis was performed on the minute atypical focus in the left mid zone.
+There is a lack of basal layer staining with HMWK and p63 while AMACR is positive consistent with a small focus of adenocarcinoma.
+PSA blood normal.
+Findings Transrectal ultrasound guided prostate biopsy completed on January 11 2016: Prior to biopsy the periprostatic soft tissue was infiltrated with 10 cc of 1% lidocaine.
+The estimated prostate size 39.2 mL No definite solid prostate abnormalities seen.
+The midline of the peripheral zone toward the apex there is an ill-defined hypoechoic 10 mm area, which has the appearance of a cyst on some of the images.
+This lesion could not be sampled as the prostatic urethra was in very close proximity to the finding.”
+Unless your father is in his 40s, active surveillance, rather than definite treatment, would be reasonable.
+It’s true that Gleason 6 disease has a very low likelihood of spreading or leading to a person's death; however, if active surveillance is pursued, he should have another test – either restaging prostate biopsy or a prostate MRI – to confirm that only low volume Gleason 6 disease is present.
+On active surveillance protocols, this is usually done within the first six months of the initial biopsy.
+About one-third of patients on active surveillance will progress and need treatment.
+Fortunately, the very slow growth rate of low-grade prostate cancer cells allows us to do active surveillance and avoid treatment.
+Could you please discuss the pros and cons, and any other info, on the CyberKnife® Radiosurgery System for prostate cancer.
+CyberKnife is a trademarked name for a type of linear accelerator that delivers x-ray on a robotic arm.
+It is commonly used for stereotactic body radiation therapy (SBRT), in which typically five high-dose treatments are given over one to two weeks.
+SBRT is a new advancement in radiation therapy, with results suggesting PSA control and toxicity outcomes that are comparable to conventional intensity-modulated radiation therapy (IMRT) over about eight weeks.
+Given the more convenient schedule and favorable outcomes, I predict that SBRT will probably become the preferred method of external radiation in the coming years.
+There are several delivery systems that can offer SBRT, with CyberKnife being one of them – just like there are different manufacturers of sports cars or SUV’s, for example.
+There is no evidence that any one machine or vendor is superior to another.
+What is the difference between seed radiation and beam radiation?
+Which one does Cleveland Clinic call brachytherapy?
+A “seed implant” is a form of brachytherapy in which radioactive seeds are placed directly into the prostate via long needles.
+External beam radiation involves x-rays generated by a machine (called a linear accelerator) that are directed at the prostate and pass through the surrounding tissues.
+For early stage prostate cancer, both are considered appropriate treatment options with slightly different side effect profiles – notably more urinary side effects with seed implants and rectal side effects with external beam.
+Is it true that you will lose a half inch off your penis if you choose surgery?
+Is the new gene replacement therapy just as good as surgery?
+A minor loss of penile length is common after radical prostatectomy, whether performed in an open or robotic fashion.
+It is partially dependent upon whether or not a nerve-sparing procedure is performed.
+A biopsy shows prostate cancer only in one area of the prostate gland.
+In our case, “R base 3+4, R mid 4+3, R apex 3+4 & R central mid 3+3, and the PSA is 14.”
+Prostatectomy is chosen treatment.
+Should the surrounding enveloping area also be removed (because it may be leaving prostate)?
+If so, would the surgeon include the seminal vessel entirely or just damage to the seminal vessel?
+You have high-risk prostate cancer, and the radical prostatectomy typically includes removal of both seminal vesicles.
+It should also include removal of both the right and left pelvic lymph nodes.
+You should discuss with your doctor the risks and benefits of whether or not nerve sparing should be performed.
+Does Cleveland Clinic have statistics on which prostate cancer treatments have been the most successful?
+In other words, have robotic surgeries resulted in fewer complications and lower cases of incontinence than open surgeries?
+At Cleveland Clinic, we have one of the world's largest databases collecting outcomes of prostate cancer treatments, and we internally review our outcomes every six months.
+In our experience, prostatectomy, external radiation, and seed implants have very similar tumor control outcomes for early stage prostate cancer (see our publication from a few years agohttps://www.ncbi.nlm.nih.gov/pubmed/20378156) A recent randomized trial of active surveillance vs. surgery vs. radiation. (https://www.ncbi.nlm.nih.gov/pubmed/27626136) showed that 10-year survival rates were similar between the three arms.
+Patients who underwent surveillance had a higher rate of developing metastatic disease than those who had surgery or radiation.
+Patients who had surgery had higher rates of urinary incontinence and erectile dysfunction, while those undergoing radiation had higher rates of rectal bleeding.
+My PSA average over the past 15 years is .98.
+Over the last five years, it’s been in the 1.2 range.
+In November 2015, it was 10.53, which was very alarming.
+Two weeks later, it was 2.5, and three months later, it was 1.3.
+My doctor suggested I return to yearly checks with no explanation about the spike.
+1.Do you have any ideas about the spike? 2.
+Do you agree that I should return to a one-year plan?
+Also, my prostate was enlarged, with ongoing symptoms of slow flow.
+That sounds like a reasonable plan of follow up.
+Rapid changes in PSA, especially if the level comes down like yours has, are usually from prostatic inflammation.
+Any inflammation in the prostate can lead to marked elevation of PSA.
+Sometimes, prostatic inflammation can occur without symptoms.
+Without treatment, rising PSA levels that are due to prostate cancer do not fall on their own.
+What is the optimal method to monitor the status of prostate cancer?
+PSA blood work is the most convenient and cost effective, but I’ve heard it’s not always accurate.
+Digital rectal exams aren’t exactly pleasant and may not be accurate either.
+Biopsies, especially fusion biopsies, are probably the most accurate but are invasive and costly.
+I’ve also heard that a biopsy is like “kicking a hornet’s nest.”
+Do you agree?
+I’ve just learned as the result of a recent MRI, my Cleveland Clinic urologist has recommended a fusion biopsy.
+I’ve done some research and think I understand the benefits of this over a standard biopsy, but I’d like to understand the procedure better and its advantages.
+How do urologists use the size of the prostate as reported by an MRI in their diagnosis?
+My understanding is 15cc-30cc is normal and mine is 33.8.
+After curative treatment such as surgery or radiation, usually PSA is the best way to monitor the status of prostate cancer.
+In patients who are undergoing active surveillance, there is an emerging role for MRI in detecting clinically progressive prostate cancer.
+A biopsy is usually recommended at some point to determine whether a cancer under active surveillance has progressed to a more aggressive grade or stage – in which case a curative treatment approach may be recommended.
+Biopsies do have risks such as infection and bleeding, and so it is important to discuss the pros and cons with your urologist.
+A 30 cc prostate size is fairly typical; size usually only matters if you are considering brachytherapy, for example, with some guidelines suggesting it may be more difficult to perform a seed implant on very large glands (>60 cc).
+I have a 4K score indicating a one in five chance of developing aggressive prostate cancer.
+My biopsy came back clean, but should I have it again?
+When or how often?
+This is an area of active exploration.
+Because the 4K score is a relatively new test, we are still learning how best to proceed with the information.
+Some suggest that an MRI may be useful to look for prostate cancer and direct biopsies toward them.
+With Provenge (sipuleucel-t), will hormone treatment (Lupron) continue to be necessary?
+In Provenge's warnings and precautions, it states "acute infusion reactions."
+Could you elaborate on that and how serious of a risk it is?
+Does the collection of cells in Provenge therapy jeopardize the immune system?
+What are the risks of cell collection?
+Is the only benefit from Provenge the possibility of longer life?
+Provenge is a form of immune therapy used to treat men with metastatic prostate cancer, typically in asymptomatic men with castrate-resistant disease (i.e., it no longer is responding to typical hormone therapy).
+This treatment is typically administered by a medical oncologist who specializes in this and other forms of systemic therapy.
+The risks may depend on your individual circumstances and medical history, and it would be best to consult with a medical oncologist who specializes in prostate cancer.
+Good day.
+I'm trying to get more information on treatment options concerning "ductal carcinoma" of the prostate.
+It seems very rare, and there’s not a lot of information concerning this rare type of prostate cancer.
+I was diagnosed in December of 2015.
+Once diagnosed, I immediately took Eligard, the six-month injection.
+It has not metastasized; I took all the scans.
+Then I received radiation therapy, 45 standard treatments that ended August 2, 2016.
+Also, I received another injection of Eligard about two weeks ago, a three-month injection.
+I'm 63 years of age, and I follow up with my doctor in November of this year.
+All and any input would be appreciated.
+Among the different types of prostate cancer, the "ductal" variety can be associated with more aggressive features.
+After the treatment you have had (which seems appropriate based on the information you provided), standard monitoring with regular PSA checks is appropriate.
+I have been treated for prostate cancer beginning last December with Lupron injections for six months.
+In April, I had seed implants followed by radiation therapy that ended in July.
+I am still feeling the effects of fatigue, etc.
+How long will these effects generally last?
+Your symptom of fatigue is most likely from the hormonal therapy rather than the radiation treatments.
+Hot flushes and some weight gain are also common side effects from hormonal therapy.
+I am assuming you are receiving hormones in combination with radiation for high-risk prostate cancer.
+If so, you will probably be receiving hormones for about two years after completing radiation.
+It will take about six to 12 months for the effects of hormones and the associated side effects to wear off after receiving your last Lupron shot.
+I agree with Dr. Avallone.
+Fatigue can be due to a combination of your treatments, but the hormonal therapy probably has the longest-lasting impact.
+Unfortunately, there is no "magic pill" for this.
+Some studies have suggested that American (Wisconsin) ginseng root can possibly improve cancer treatment-related fatigue, although this trial was not specific to prostate cancer or the treatments you had.
+Is Provenge treatment successful?
+Is hormone treatment better than castration in stage 4, when the PSA is over 1000 and the cancer is hormone-resistant?
+Once a prostate cancer develops resistance to hormonal therapy, additional systemic therapies become more important.
+There are a number of new treatment options that have become available in recent years, including docetaxel-based chemotherapy, enzalutamide, abiraterone, sipuleucel-T and radium-223.
+It’s best to speak to your medical oncologist about which next step is the right one for you.
+Hello.
+My father is 87, and he has prostate cancer.
+Several years ago, he had a seed implant, but recently, the cancer appears to have spread to bone in the spine area, and he is losing weight.
+What treatment options should he consider?
+Your father will need careful evaluation and close follow-up, especially as he has disease in the spine.
+In general, metastatic prostate cancer is treated with hormonal therapy, and the majority of patients respond to this treatment.
+Whether or not immediate or delayed hormonal therapy is required is an individualized decision that depends upon your father's clinical condition.
+This should be a decision made between your father and his doctor.
+Is Provenge a proven beneficial treatment?
+For select patients with metastatic prostate cancer, one trial showed that Provenge improved overall survival rates.
+However, it is a costly treatment and there are several other options that may be available in this setting.
+Ongoing studies will hopefully determine which is the best order or combination of therapies.
+Can you suggest any doctors, hospitals, location, etc., for a second opinion?
+What is the procedure for the second opinion?
+Thanks.
+We offer two options for a second opinion at Cleveland Clinic

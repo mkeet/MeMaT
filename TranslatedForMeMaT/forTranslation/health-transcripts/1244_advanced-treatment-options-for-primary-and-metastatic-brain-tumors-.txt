@@ -1,0 +1,156 @@
+May 11, 2011 Every year in the United States, more than 300,000 people are diagnosed with a brain tumor, either primary or metastatic.
+Primary brain tumors are those that arise within the brain itself, unlike metastatic tumors, which form from cancer that has traveled to the brain from another part of the body.
+Today’s medical advancements now offer state-of-the-art treatment options to provide brain tumor patients new hope in managing their disease.
+Are primary brain tumors treated differently, medically or surgically, than secondary brain tumors?
+These are very different types of tumors.
+Primary brain tumors arise from the brain and usually have a component that is mixed with normal brain (and may contain components that are entirely tumor as well).
+Secondary tumors (called brain metastases) arise from cancers elsewhere in the body (lung, breast, kidney, melanoma, etc.) and typically have sharp edges where the tumor ends and normal brain begins.
+Because of this, secondary tumors can be cured through the use of focal treatment such as surgery or, even better for most patients with relatively small tumors, radiosurgery (such as Gamma Knife).
+Although surgery is clearly helpful for many primary tumors, it is limited to removing or destroying tumors where there is no normal tissue involved, or where the normal tissue isn't critical for normal brain function.
+Also, radiosurgery's results in primary brain tumors are often unimpressive and have been shown to be no better for newly diagnosed glioblastoma when added to radiotherapy and chemotherapy, than using the radiation and chemotherapy alone.
+Is there any advantage of taking a proactive approach to brain tumor treatment, such as trying to enhance the currently healthy working brain while at the same time continuing to treat the brain tumors?
+I have gliomas and glioblastoma metronome.
+I think the problem is that no one really knows how to enhance the currently healthy brain.
+Drugs and vitamins that may protect the good brain from toxicities of treatment may also protect the tumor from the treatment.
+Exercising the brain or giving it stimulants, anti-Alzheimer’s disease drugs may make it work better, but doesn't physically protect it from the toxicities/destructive abilities of these tumor cells.
+I wish I had a more optimistic answer for you.
+Is there anything that can be done with diet, supplements, or lifestyle habits that can prevent tumor regrowth (GMB)?
+Not that we know of.
+It is probably best to have a healthy diet, to minimize or avoid alcohol, etc.
+I am not aware of any supplement that has been shown to be beneficial in this regard.
+I live in a very rural area, I have been diagnosed with a schwannoma in the left lower cerebellum displacing my medulla 7mm.
+I also have a level 4 fusion in my cervical spine.
+Is CyberKnife or Gamma Knife an option to shrink the tumor or eliminate it?
+What can I do?
+I'm only 38 and I am raising seven kids (mine and my sisters).
+Will I get to see my first grader graduate?
+I've lost a brother and an aunt to brain tumors.
+Stereotactic radiosurgery (Gamma Knife and CyberKnife are examples) is often a good, if not the preferred treatment, for schwannomas in the head.
+You should have a brain tumor surgeon who does radiosurgery review your case and your most recent MRI to see whether observation, surgery, or radiosurgery is best for you.
+Is surgery a one-time option for most brain tumors; and if recurrence happens, is surgery an option?
+Surgery is often an option at the time of tumor recurrence or progression.
+That is why we review all cases of suspected recurrence/progression in our twice-weekly brain tumor board.
+There, surgical oncologists, radiation oncologists, neuro-oncologists, and medical oncologists (all of whom specialize in brain tumors) can review each case and individualize a management plan/recommendations for that particular case.
+When is a secondary surgery not a good option?
+It depends on the type of tumor.
+For glioblastomas, I think a second surgery is a poor option when the patient already has a poor quality of life, if the surgery is likely to disable a functional individual, or if there is no medical or radiation treatment available to follow the surgery.
+What is the probability of returning to Avastin® after developing proteinuria to a degree that the drug had to be stopped?
+The patient was on Avastin® for the treatment of recurrent GBM for two years, now off for the past five months.
+Also, please suggest clinical trials for recurrence after Avastin® fails or if Avastin® is no longer an option for treatment of GBM.
+I really can't comment on the proteinuria issue as it pertains to Avastin® (bevacizumab).
+Clinical trials are dynamic (opening and closing), and eligibility can differ from trial to trial.
+I suggest looking at the National Cancer Institute (NCI) site for clinical trials.
+We list our open trials at www.ccf.org/braintumor.
+If Avastin® and Temodar® are well tolerated by a patient, what do you think of adding the Novocure device along with these drugs?
+It might be good, it might be bad.
+Novocure is supposed to work by applying a frequency of electromagnetic waves that impairs cell division (among other things).
+My brother, whose tumor is GBM unmethylated, was on Temadar® only twice and developed thrombocytopenia and then pancytopenia.
+He took two months to recover.
+Should he continue with the TMZ or change to another agent?
+Metronomic (low daily doses) of Temodar® may be an option, or he could transition to some other agent that doesn’t suppress the marrow so much.
+This is not really my area of expertise.
+What can you suggest to combat the fatigue caused by Temodar®?
+Being a surgeon, I don't prescribe chemotherapies (other than implantable wafers at surgery in some cases), so there are probably better specialists to ask, such as our medical brain tumor oncologists, Drs. Peereboom and Ahluwalia.
+Would adding a PARP-inhibitor augment Temodar® effectiveness of MGMT unmethylated patient?
+In theory, yes.
+A PARP-inhibitor should augment the effectiveness of Temodar® in patients where MGMT is unmethylated.
+My 23-year-old daughter is a three-year survivor of a GBM with no new regrowth.
+She now has an MRI every three months.
+If she continues with no new regrowth, if and when can the interval between MRIs be extended?
+This is going to be a judgment call by her physicians, as there really is no data that I'm aware of to guide us regarding how often to image in the long-term with glioblastoma.
+After some period of time (a few to several years), we probably would move to every four months, then after a while every six.
+We have a few long-term survivors that are getting them yearly, but that was after about 10 years.
+You don't mention what kind of treatment she had, which could also be enlightening.
+I'd count my blessings that her tumor has responded so well and continue to keep a close eye on this with frequent scans (and you may want a second opinion on the pathology to make sure it really was a glioblastoma).
+We are in New York City.
+Can we assume that a large academic hospital does the HF intraoperative MRI?
+Not every large academic medical center has/uses a high-field (1.5 Tesla or greater) intraoperative MRI -- so don't assume it.
+Frankly, even though we had been working with low-field (0.5 and 0.2 Tesla) MRI since the late 1990s, I was skeptical that an intraoperative MRI made a big difference until we moved to the 1.5 T IMRIS system early last year.
+It has been a huge advantage in many cases.
+With a schwannoma next to the medulla, displacing it 7mm, how often would you have a T3 MRI done to watch for growth?
+Are there other tests that should be run?
+The frequency of scans would depend upon the pattern of growth in the past.
+If it has been stable over years, then yearly would be reasonable.
+If it is already known to be slow growing, I’d probably just intervene with radiosurgery (Gamma Knife), in many cases three to four months after the first scan, if it is newly diagnosed.
+I have read about the new laser therapy being used at Cleveland Clinic.
+Can you explain how this works?
+Is it better than regular surgery to remove the tumor?
+This is a really exciting technique called Laser Interstitial Thermal Therapy (LITT), and the device we use is the Monteris AutoLITT® system.
+It is ideal for cases where the tumor is too deep to easily or safely access with surgery, or where the patient’s medical condition is such that he or she cannot tolerate the blood loss or pain of conventional surgery.
+Does the laser interstitial thermal therapy work for meningiomas that are compromising the optic nerve?
+Probably not (although it would be suitable for some meningiomas in certain circumstances).
+Optic nerve sheath meningiomas are notoriously difficult to treat surgically, as they usually adhere to the optic nerve, and blindness usually results from an intervention.
+AutoLITT® is best when it is difficult to get to a lesion rather than when it is to close/adherent to something once you get there.
+Observation and, ultimately, radiotherapy (sometimes multisession radiosurgery) may be considered for the treatment of these.
+Surgery and single session radiosurgery are best considered when there is no longer useful vision in that eye.
+Can the LITT be utilized where there is a tumor invading the thalamus?
+Quite possibly, but it depends on the specifics of the case.
+Is a patient eligible for LITT for recurrence if they are currently on Temodar®/Avastin®?
+The patient needs to be off Avastin® for three to four weeks and off of Temodar® for at least two weeks.
+Then, he or she needs an MRI to see what the tumor looks like.
+Oftentimes, the tumors become diffuse once off Avastin® and are not good candidates for local therapies, such as AutoLITT®.
+How do you feel about the Novocure device?
+Would you be willing to prescribe it off label for newly diagnosed or recurring brain tumors?
+It is a very interesting device, recently FDA-cleared.
+We'll be offering it to patients with recurrent or progressive disease, and will be part of the trial for patients with newly diagnosed disease (should be online with that within a week or two).
+What is your opinion of the Novocure device, and would you be willing to prescribe it off label for recurrent anaplastic oligodendrogliomas?
+I think this is a very interesting device, and there is preliminary evidence to suggest there are some patients with brain tumor who will benefit from it.
+I think for patients who have failed most reasonable therapies, it would be worth a try, but that assumes that the patient or their insurance carrier will pay for it 'off label,' which is a big assumption.
+Also, I've not heard what this is likely to cost, but I suspect it will not be inexpensive.
+What is your opinion on using 5-ALA in a recurrent (GBM) tumor resection after a full course of radiation?
+Why is it not FDA-approved?
+Which institutions do it?
+Is it done at Cleveland Clinic?
+It appears to be a promising technique, particularly for institutions that don't have a high-field intraoperative MRI operating suite.
+I do nearly all these tumor procedures in our IMRIS operating room, so we can tell whether or not we got as complete a resection as intended.
+There are a number of known limitations of 5-ALA, so we're in the process of getting our IND (special FDA clearance) to use 5-ALA and will compare its results with our intraoperative MRI, but the MRI is really the gold-standard.
+I know Dartmouth uses 5-ALA and probably has the biggest experience with it in the U.S. The FDA issue has to do with the company that holds the license.
+It has not pursued FDA approval (or something to that effect).
+Why doesn’t the FDA approve 5-ALA surgery, after such promising reports from Europe (Stummer et al.) and virtually no downside?
+As I suggested in a previous response, this really isn't a problem with the FDA, in that the company (or companies) that hold the legal rights to making 5-ALA have not pursued going through the (very expensive) process of getting FDA approval.
+You said earlier that there are downsides to 5-ALA.
+What are they?
+From a technical standpoint, there is something called 'bleaching,' where the ultraviolet light used for illumination causes it to fade away over time.
+Also, you need a direct line of sight to the area of remaining tumor.
+If it is around a corner or otherwise obscured by normal tissue, you may not see it.
+Further, it really is of no benefit for low-grade tumors where the blood-brain-barrier is intact.
+Also, some people may be allergic to it, and I understand there may be issues pertaining to exposure to sunlight for a while after its use.
+Does it pay to enroll in studies that try to treat GBM by inhibiting such pathways as Hedgehog, Notch, mTor and/or Wnt?
+Is there a risk or downside to inhibit these?
+The thing about clinical trials is that if we really knew that the thing being investigated was better or more risky than conventional treatment, then we couldn't do the trial!
+My wife has a recurrent GBM and it has grown considerably in a new site in only six weeks.
+She is on Avastin®, and we have decided to now include VR-16 in the treatment.
+I remain very interested in the TOCA 511 trial that you are about to commence.
+She is 66 years old and could travel with great difficulty.
+As a long shot, should I continue to pursue this option?
+As I mentioned earlier in this chat, all trials are promising, but if we really knew it was better than conventional therapy it wouldn't be a trial.
+The medical literature is littered with a large number of promising treatments that turned out to be a failure for one reason or another.
+That said, sometimes being in a trial works out, so a lot of it comes down to: 1) Does the patient qualify for the trial? 2) Does the timing of availability coincide with when the patient needs a new treatment and discontinuation of previous treatment? 3) Does the geography work out (can the patient travel for treatment/test as often as necessary?) 4) Does the treatment 'feel right' for the patient; is it something they really want to try?
+What about Novocure for newly diagnosed patients, either as monotherapy or in combination with other treatments?
+We're going to be participating in a multicenter trial for this in newly diagnosed patients, along with conventional therapy within the next couple of weeks.
+There should be interesting results.
+The pilot study of Novocure in this group showed some very long term survivors.
+What is your thought on therapies that utilize xl-765 in addition to Temodar®?
+We think it is a great idea and hence we are doing a trial of it in upfront patients after their radiotherapy and concomitant Temodar®.
+I would love to know the doctor's opinion on vaccines such as VB-111 or DCVax.
+Vaccine therapies for high-grade gliomas are elegant in principle and have been largely disappointing in practice.
+We had an adoptive immunotherapy trial about 10 years ago with similar results.
+Probably this relates to variability of tumor cells within a tumor, the tumor's ability to suppress the immune system, and the use of steroids in this population, which probably renders the vaccine useless in most cases.
+Is there a treatment for scar tissue that develops from radiation treatments?
+Most commonly this is known as “radiation necrosis"; and in some cases, it can cause problems that are as nasty (if not more so) than the original tumor.
+Also, at times, it can be difficult to differentiate recurrent tumor from radiation necrosis.
+You talked about wafers.
+Are they still a good option to use in tumor recurrence?
+They have their place and are FDA-approved.
+I think that in certain situations (high-grade gliomas or brain metastases) where the patient has exhausted trials and reasonable conventional therapy and where one can achieve a near-total resection with surgery, they should be considered.
+I get severe earaches from my cell phone, even after only a minute or two.
+Do you feel I need to worry about a brain tumor forming?
+I don’t think there is good evidence of a causative relationship between cell phones and brain tumors.
+If you are concerned, use it with a corded earpiece and microphone and wear it on a belt, etc.
+In a previous post I addressed this to a certain degree.
+It is a late complication of radiation where an inflammatory/necrotic zone exists.
+It may mimic recurrent tumor in its appearance on MRI and effect on the patient.
+Frontline treatment is usually steroids (dexamethasone), but anticoagulation, hyperbaric oxygen, and Avastin® have all been used with varying success.
+We are treating some cases with the AutoLITT® device.
+Thanks for all your good questions and comments.
+Signing off for now, Gene Barnett

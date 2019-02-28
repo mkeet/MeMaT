@@ -1,0 +1,163 @@
+What is the difference between CHP (chronic hypersensitivity pneumonitis), IPF (idiopathic pulmonary fibrosis) and NSIP (non-specific interstitial pneumonia)?
+This is a complex question that I will try to address with a broad answer.
+Hypersensitivity pneumonitis is an allergic-type reaction in the lungs that results from certain environmental exposures.
+This can result in inflammation and sometimes fibrosis.
+IPF is a progressive, scarring disorder of the lung that is not driven by inflammation.
+NSIP is a rare interstitial lung disease that can result in inflammation or scarring and is often associated with an underlying autoimmune condition.
+The distinction between inflammatory-driven disorders and IPF (a non-inflammatory driven disorder) is important, as immunosuppressive medications are often used in the former, while anti-fibrotic medications are used in IPF.
+I get confused about the terms.
+Is ILD the same as pulmonary fibrosis or is pulmonary fibrosis a form of ILD, and are there other types of ILD?
+ILD stands for interstitial lung disease.
+It is a broad term encompassing many different diagnoses, of which IPF is one.
+In general, these diseases are inflammatory or scarring conditions that make the lung stiff.
+There are multiple other ILDs such as acute/chronic hypersensitivity pneumonitis, non-specific interstitial pneumonitis and others.
+I cough a lot during the night time, so much so that I have an extremely difficult time sleeping.
+I am taking six tablets of Esbriet (pirfenidone).
+I used to take nine tabs earlier, however, that resulted in issues with my bowel movements.
+I used to have an extreme difficulty in passing motions.
+I would get an urge to pass motion but after spending some time in the bathroom, I would be unable to pass motion.
+I would induce motion by using my fingers.
+Since I reduced the Esbriet to six tabs per day, the motion problems, contrary to my expectations, have still not gone away.
+I understand that Esbriet and one more drug are the only options that can stop the progression of the disease.
+With your help, I would like to return to nine tabs per day.
+Gastrointestinal side effects are common with pirfenidone.
+In the clinical trials, most of these side effects were controlled by dose reduction or medications to treat symptoms.
+You could speak with your doctor about the possibility of using stool softeners or other agents to control your symptoms.
+If this does not work you may need to consider further dose reduction or switching to nintedanib.
+I know there have been no studies with patients taking both Esbriet and Ofev.
+What is your personal opinion about a patient taking both medicines?
+My personal opinion is that both of these medications have potential side effects, mainly gastrointestinal, that can be quite bothersome.
+That is concerning to me if a patient is considering both therapies at the same time.
+As you mentioned, there is no evidence that this is beneficial.
+What is the preferred treatment of IPF?
+There are two treatments available for IPF.
+Neither are "preferred," as they have not been studied head-to-head.
+In general, the decision of which medication to choose is left to the patient and the provider based on side effect profile, ease of taking the medication and lifestyle factors that may play a role.
+What are the two treatments available (for IPF)?
+Currently, the only two FDA-approved medications for the treatment of IPF are pirfenidone and nintedanib.
+My mom was using a Breo (ellipta) inhaler, but since Medicare doesn't pay for it, she is now taking Patanase (olopatadine).
+Are either of these specifically for IPF, and is one better than the other?
+Breo is typically used for airways diseases such as asthma or COPD.
+It is an inhaler that is used to decrease airway inflammation and open the airway to help make breathing easier.
+Patanase is a nasal antihistamine to help treat allergic rhinitis (runny nose and congested sinuses).
+Neither of these are specific treatments for IPF and are generally not used for this diagnosis.
+However, some patients with IPF have improved symptoms when other lung or sinus symptoms are aggressively managed.
+What test determines the stage of IPF?
+There is a scoring system based on GAP (gender, age, physiology [FVC and DLCO]), which can be used to assess the severity of IPF.
+However, in clinical practice we tend to generalize based on a combination of severity of symptoms, pulmonary function tests and imaging.
+You say that certain cases of IPF are genetic.
+My mom has IPF.
+Is there a way to determine if it is genetic and whether I or my daughter should take any action to see if we are at risk of acquiring IPF?
+There are genetic tests available to determine if you have some of the common mutations, such as telomerase mutations, seen in the hereditary forms of IPF.
+When family members of my patients ask this question, I give them the option of speaking with a genetic counselor to determine if performing these tests is appropriate for their particular case.
+Unfortunately, we are unable to offer a diagnosis or specific medical advice without a thorough evaluation.
+You may wish to seek a formal second opinion.
+When you are visiting your pulmonologist, what tests should be done regularly to monitor the progression of IPF?
+Typically, pulmonologists will follow the progression of disease with pulmonary function testing and a six-minute walk test or oximetry.
+The timing of these may differ between pulmonologists.
+At Cleveland Clinic, we typically check pulmonary function tests every three months and six-minute walk or oximetry every six months.
+We usually do not follow progression with CT scans and only order them if there is an acute change or we suspect a complication.
+My mother was diagnosed with scleroderma of her lungs via an open lung biopsy at about age 80.
+She lived almost 10 years post diagnosis.
+She was treated with oxygen and long-term steroids.
+She was never a smoker, but probably inhaled significant second-hand smoke in her younger years.
+She was also raised on a farm.
+Could either of these been contributors to her disease?
+Is lung scleroderma hereditary?
+There are some studies that demonstrate a link between exposures and scleroderma.
+Two in particular are organic solvents and silica.
+Many studies suggest that there is a hereditary (genetic) component to scleroderma and other autoimmune disorders.
+I was diagnosed with fibrosis about 15 years ago and was under the care of Dr. Mazzone and now Dr. Culver and I am much improved.
+I am able to be active in my family life, and unless I catch "a cold" I really haven't had severe problems or done any research concerning this issue.
+I use a Dulera inhaler and an albuterol inhaler daily.
+Are there problems that will crop up from long-term use of these that I should watch for?
+We have plenty of patients who are on those medications for many years, if not their entire lives.
+While they do have side effects long term, they are generally safe if you have been tolerating them.
+You should continue to follow up with your physicians in order to ensure that you are not having problems from long term use.
+I experienced respiratory failure as an allergic reaction three years ago.
+My PFTs and six-minute walk tests have been steadily improving.
+Most of the time I function well on room air and only use oxygen when my stats drop.
+Is there anything I can do to help the improvement process?
+It is great to hear that you are improving and have regained most of your lung function.
+You may not qualify for pulmonary rehab since you have had so much improvement, but it would be worthwhile to check.
+For many lung conditions, pulmonary rehab has been shown to improve quality of life and stamina.
+Otherwise, I would recommend a good aerobic exercise program and a healthy diet.
+Could you briefly describe pulmonary rehab?
+Pulmonary rehab is a multidisciplinary approach to treating lung disease.
+It combines disease education, breathing techniques, nutrition and monitored exercise into a "course."
+The idea is to teach you how to safely exercise and stay active without putting yourself in danger.
+You can then take what you learned and practice it at home.
+This will help to alleviate some of the deconditioning that frequently accompanies many lung diseases.
+Most patient greatly benefit from the techniques learned in rehab.
+I am going to start an anti-inflammatory diet.
+Is this good for IPF?
+Are there any other diets that you would recommend?
+There are no definitive studies to suggest that an anti-inflammatory or other specific diet is beneficial for IPF.
+That being said, some pulmonologists recommend diets high in anti-oxidants, including fruits and vegetables.
+This is purely theoretical but could be beneficial.
+Can you please not focus entirely on IPF.
+I have CHP and others have other forms of ILDs.
+We get enough information on IPF and the "two drugs".  Thanks.
+This is a difficult request due to the rarity of the other interstitial lung diseases.
+There is little/no evidence on how to treat these diseases, especially over the long term.
+Depending on the disease, we often treat with complicated medications with many potential side effects.
+In the case of chronic HP, we usually use immunosuppressants/anti-rejection medications.
+Based on the severity of your disease, I suggest that you discuss the risks and benefits of these medications with your provider.
+Your doctor is correct that the antibiotic treatments for MAI are complicated and have many potential side effects.
+MAI is caused by a bacterial infection.
+The bacteria are all around us in our environment, and some people are more susceptible to getting infected such as those with underlying lung disease.
+It certainly can cause shortness of breath as well as cough and weight loss.
+If you are not a candidate for treatment, I suggest focusing on medications aimed at helping your symptoms, possibly inhalers, cough suppressants, mucolytics, etc.
+My husband presented with lung problems four years before he developed rheumatoid arthritis.
+His rheumatologist thinks the arthritis attacked his lungs, but his lung doctor thinks a bacterium or a protein he inherited started damaging his lungs, which ultimately initiated the inflammatory process in his joints.
+Do you think bad lungs can cause RA and how should he be treated?
+There are multiple ways in which rheumatoid arthritis (RA) can affect your lungs.
+It is possible for the lung manifestations of RA to occur prior to any joint or other manifestations.
+Treatment is generally focused on treating RA.
+Any further specifics to your husband's case are difficult without more information.
+With systemic sarcoidosis, having a lot of nodules some large, will you usually get fibrosis?
+How come some doctors see fibrosis and others don't?
+Will it show up in the CT scans?
+Sometimes it is difficult to distinguish between fibrosis and inflammation on CT scans.
+We often look for clues that indicate fibrosis, such as a sign called "traction bronchiectasis" or another called "honeycombing."
+In some patients we see these nodules resolve without any resulting fibrosis, while other patients sometime have progression to fibrosis.
+We do not currently know why some patients are more susceptible to developing fibrosis than others.
+Now that the mice are getting the good stuff, when can we expect drugs that will reverse fibrosis?
+There are a number of very promising drugs in the pipeline for pulmonary fibrosis.
+A number of them are in Phase II human trials at this time.
+Once trials have completed Phase III, they can go before the FDA for approval.
+I would expect we may start to see some of these new agents within the next five years.
+Are there any drugs in clinical trials that are showing to actually stop the scarring process or reversing it?
+There are several drugs currently in clinical trials that have blocked and/or reversed pulmonary fibrosis in animal models.
+These drugs are exciting because the science behind them suggests that they could potentially stop or even reverse fibrosis in humans.
+Unfortunately, these trials in patients are "blinded" so we are unable to see the results until they are complete.
+Is stem cell therapy on the horizon?
+Stem cell therapy for IPF and other lung diseases is a very exciting and promising therapy that we are all excited about.
+At this time, we are still in the early stages of working out the safest and most effective methods for this therapy.
+Currently, there are human trials involving stem cells in IPF in Florida and Spain.
+The current recommendation from most IPF experts and groups at this time is that stem cell therapy is not recommended until we can get some results regarding the safety and efficacy from these initial trials.
+Which drugs do you feel are promising for IPF that are being studied now?
+There are certainly many potential therapies that look promising, but until the studies are completed we cannot know the efficacy of these medications.
+What is the Xvivo machine and how does it affect the possible lung transplants of IPF patients?
+Ex-vivo lung perfusion is a way to keep the lungs viable for a longer period once they have been removed from a lung transplant donor.
+Regardless of the disease, the goal is to keep donor lungs available for a longer period prior to being given to the recipient.
+What are the main factors when determining when a lung transplant would be the appropriate treatment?
+What factor does age have on the decision?
+The main factors often involve the severity of your lung disease.
+Transplant teams will often look at your pulmonary function tests and how much oxygen is required as indications of whether or not to list someone for transplant.
+In IPF, we often refer patients for lung transplant evaluation sooner rather than later because of the progressive nature of the disease.
+Regarding age, transplant centers have different criteria for age cut-offs.
+At many centers, there are age limits around 65, and this will factor into the decision.
+Here at Cleveland Clinic we do not use a specific age cutoff, and I have patients in their early-mid 70s who have been successfully transplanted.
+The main issue related to age is whether or not there are other serious medical issues that may result in complications with lung transplant.
+What is your impression of IPF groups on the web?
+In general, I think support groups, online or in person, can be very beneficial.
+It is often helpful to be amongst other people who are dealing with the same diseases/symptoms as you.
+There are national groups such as the Pulmonary Fibrosis Foundation and the Coalition for Pulmonary Fibrosis who have active websites and arrange many local events geared toward patients.
+Any IPF physician recommendations in the LA area?
+Dr. Paul Noble is one of the leading experts in IPF, and he is at Cedars-Sinai.
+For other experts in your area, I would recommend contacting the Pulmonary Fibrosis Foundation.
+They are an excellent resource for this type of question.
+I would like to thank everyone for attending our webcast.
+We appreciate all of you questions.
+Hopefully we were able to provide some thoughtful and insightful answers in order to ease some of your concerns about IPF and the other interstitial lung diseases.

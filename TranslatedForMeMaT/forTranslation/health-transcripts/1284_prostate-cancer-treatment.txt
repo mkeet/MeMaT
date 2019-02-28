@@ -1,0 +1,141 @@
+Prostate cancer is the most common cancer in men, and the second leading cause of cancer deaths among men in the United States.
+Every year, about 185,000 new cases of prostate cancer will be diagnosed in the U.S. What are the screening recommendations for the average man?
+Who does them?
+Screening for prostate cancer remains controversial.
+However screened populations have a lower risk of death from prostate cancer.
+My PSA test result this past July was 1.0.
+I'm 52 years old.
+Is this a safe level for someone my age?
+There is no "normal" value for PSA.
+However, this is in an acceptable range as long as your DRE is OK.
+I am 53 and had a PSA of 4.6.
+Biopsy showed cancer was removed with robot.
+What should be next step?
+It depends upon the final pathology report.
+If the final pathology report is OK, periodic PSA monitoring is in order.
+The PSA should fall to zero and remain so after surgery.
+A detectable PSA is usually a manifestation of recurrence.
+What would be the cause of a low free PSA reading other than cancer?
+Low free PSA can be an indicator for prostate cancer, but is also seen in BPH (benign prostate hyperplasia).
+Is the PCA3 (prostate cancer gene 3) urine test sufficiently accurate to decide if a biopsy is necessary?
+My number was 2.4, whereas my PSA at age 74 runs from 5 to 9.
+I have had prostatitis twice.
+Thanks.
+The most common current use for PCA3 is determining the need to repeat a biopsy in a patient who has undergone previous negative biopsy and has a persistently elevated PSA.
+I am 60 years old and my PSA went from 3.6 to 7.2 in one year.
+A second PSA showed 6.1.
+I have decided against further treatment and am on Proscar®(finasteride) until November.
+At what point do I need to take further action?
+How common is breast enlargement on Proscar®?
+What are the risks if I decide to watch the numbers?
+At what point should I take action?
+If you are in good health, you should talk to your physician about undergoing a prostate ultrasound and biopsy to rule out prostate cancer, especially given the rate of change of your PSA.
+How reliable is the PCA3 urine test regarding the need to re-biopsy?
+There is no test that is 100 percent reliable, but the PCA3 has added to our ability to counsel patients regarding the risk of prostate cancer and the need to re-biopsy.
+It is more specific than PSA.
+When a biopsy is done and 12 samples are taken, what are the chances of missing the cancer completely or by chance getting a more concentrated grouping of samples so it appears the cancer is more severe?
+The extended biopsy pattern that you are referring to has a lower chance of missing clinically significant prostate cancer than the sextant (six biopsies) pattern that we used years ago.
+Nevertheless, no test is 100 percent accurate, so periodic PSA monitoring and PCA3 evaluations are performed and, when necessary, repeat biopsies, as some cancers are missed on the first set of biopsies.
+I'm on Lupron (leuprolide).
+Could Avodart®(dutasteride) and finasteride have fewer side effects?
+Lupron is hormonal therapy used for treatment of prostate cancer.
+Avodart®and finasteride are medications used for lower urinary tract symptoms due to BPH (benign prostatic hyperplasia), which is a benign enlargement of the prostate all men develop (but only some of which develop symptoms that require treatment).
+After radiation and hormone suppression, what is best way to follow patients for recurrence or metastatic disease?
+The PSA test is used for two purposes.
+One is for screening and the other is for tumor surveillance.
+Although screening remains controversial, there is no controversy in employing PSA in tumor surveillance, which means monitoring the disease.
+It is a very accurate test when used in this fashion and should be periodically checked after radiation and hormone treatment, or any definitive form of treatment.
+I had a laparoscopic radical prostatectomy nine months ago.
+I've already had one subsequent PSA test that was undetectable.
+Going forward, besides regular PSA tests, are there any other tests (blood or otherwise) I need to have?
+PSA testing should be adequate as long as it remains undetectable.
+(From Twitter) If my PSA has gone from 0 to .13 in 15 years, will it keep rising?
+This is after radical prostatectomy.
+This is a very slow rise and is usually followed and not actively treated.
+PSA doubling time over 12 months can be managed conservatively in many patients, but should be discussed with your urologist Whether or not active surveillance is reasonable depends upon your age and health, and what you are most comfortable with.
+If you are reasonably healthy, you should undergo repeat biopsies yearly, as PSA alone is not accurate enough for monitoring disease progression or growth of the prostate cancer.
+My prostate cancer was biopsied 4 1/2 years ago with a Gleason Score of 7, PSA 10.
+My age is 86 1/2.
+I have opted for watch and wait.
+I had several clean bone scans and, in the last six months, a clean colonoscopy.
+The urologist reports no lumps or bumps, but a hard spot on the left side.
+No symptoms other than fatigue.
+The latest PSA is 254.
+I am still mentally alert and prefer to avoid hormonal therapy unless pain ensues.
+Do you have any thoughts on my condition?
+A PSA that high is usually associated with disseminated disease.
+You should be followed carefully by your urologist with respect to symptoms, and you will likely require another bone scan if you PSA continues to rise.
+As long as you are feeling well and your bone scan is negative, it seems reasonable to withhold hormonal therapy, but this is a decision you and your physician should make.
+Which type of external beam radiation is the most precise with the least side effects?
+Over the last 20 years, we have seen tremendous advances in radiation treatment for CAP (cancer of the prostate).
+The newer forms of radiation allow the prostate to be targeted more accurately, with reduced short-term and, hopefully, long-term side effects.
+I have clinical stage T2c prostate cancer (PSA=9.7' cancer in both lobes, Gleason scores 2@8 & 3@7; percent of tissue ranges from 5 percent to 30 percent).
+Is surgery or radiation the recommended treatment and why?
+My priority is long-term, regardless of short-term discomfort or inconvenience.
+Radiation and surgery are both good treatments for prostate cancer.
+Unfortunately, we do not know which is more likely to cure clinically localized disease, which I presume you have.
+A thorough discussion, taking into account your age and overall health and risk preferences, should be undertaken with your urologist.
+I am 72 years old, in good health, RE shows mod. enlarged prostate without discreet nodules, induration, or asymmetry, annual PSA test since 1998 gradually rising from 1.6 to 10.1. in March 2011.
+Prostate biopsy in June 2011 shows adeno-Ca in right lobe only, Gleason score 3+3=6 involving less than 25 percent of entire specimen.
+What treatment would you recommend?
+If I choose active surveillance, when would you start with any therapy?
+Are there yet any genetic markers to indicate slow versus rapid progression of the tumor?
+Low volume cancer with Gleason 6 pathology tends to have a good outcome with either radiation or surgery.
+Your PSA puts you on the fence between low risk and intermediate risk disease, though.
+Depending upon the size of your prostate and the number of cores involved, cryoablation might also be a good treatment, but we do not have long-term data as we do for surgery and radiation.
+Would you recommend IMRT (intensity-modulated radiation therapy) following brachytherapy in a 65-year-old patient with a Gleason score of 9?
+Brachytherapy with an external beam boost is sometimes utilized in high risk prostate cancer.
+This should be discussed with a radiation oncologist, as there are plusses and minuses to this approach just as with other forms of therapy.
+I was diagnosed with prostate cancer last month.
+My Gleason score is 7.
+My biggest concern is the side effects of any treatment that I will have.
+Can you comment on the side effects associated with treatment, especially incontinence?
+Radiation has a lower risk of significant incontinence than does surgery, but it has other risks.
+The risk of significant urinary incontinence after undergoing open or robotic prostatectomy by an experienced surgeon is very low, less than 3 percent.
+Over time, how do the various treatment options compare related to: incontinence, impotence, and recurrence?
+Unfortunately, this is a very broad question and is related to the stage and grade of disease, body habitus, and other medical conditions.
+You should have a frank discussion with a urologist and a radiation oncologist to go over these questions.
+What are the possible adverse reactions to prostate biopsy?
+I have been reading the Invasion of the Prostate Snatchers and am concerned about any chance of incontinence.
+Before he passed away, my father had incontinence in addition to dementia.
+There should be no chance of incontinence after biopsy.
+There is a very low chance of a serious infection.
+At Cleveland Clinic, we have recently instituted a new policy for broader spectrum antibiotic coverage before prostate biopsy to help minimize the risk of a serious infection.
+What do you mean by complications in a salvage procedure?
+A regular radical prostatectomy, whether done by an open approach or robotically, is associated with a low chance of incontinence and a very low chance of rectal injury (requiring a temporary colostomy in some patients).
+A post-radiation salvage prostatectomy is associated with a very high chance of severe urinary incontinence and a chance of rectal injury (which after radiation is often treated with a permanent colostomy).
+Five years ago in June, my prostate was removed at Cleveland Clinic in Weston FL.
+This July, I was told that my PSA, which had been undetectable for five years, had risen to 0.17.
+A month later, it had risen to 0.18.
+My local urologist indicated that if it reaches 0.2, I will need to consider radiation treatments.
+What do you think is going on?
+A slowly rising PSA five years after surgery is commonly associated with microscopic disease recurrence, usually in the pelvis.
+You will need an evaluation with CT and bone scan, but these are usually negative in this circumstance.
+Radiation can be associated with a 60 percent cure rate in this setting.
+Your father has high risk prostate cancer because of his high grade, and recurrence in this setting is not uncommon.
+He should have had a bone scan and CT to evaluate him for metastatic disease.
+If there is recurrence of cancer after initial IMRT, what can be done then?
+I am assuming you are referring to local recurrence.
+That is disease within the prostate, as opposed to recurrence elsewhere in the body.
+There is no standard treatment for local recurrence after definitive radiation therapy.
+Salvage radical prostatectomy is occasionally utilized, but has a very high risk of complications.
+I am 55 years old.
+I have adenocarcinoma, Gleason grade 3+3=6 involving 1 core (10 percent 0.
+I am leaning toward surgery.
+I have heard about a newer technique that eliminates the need for catheter after surgery and provides for a higher level of normal functionality after surgery.
+Is there a new technique or is this more of a marketing spin?
+I am guessing that you are referring to robotic prostatectomy with a suprapubic tube instead of a urethral catheter post operatively, which some centers are doing.
+Unfortunately, there is not enough data to say whether or not this will influence the chance of developing scar tissue where the urethra and bladder neck are connected during surgery after prostate removal.
+When do you think HIFU (high intensity focused ultrasound) will be approved by the FDA?
+Unfortunately, there is no way to know if or when it will be approved.
+Isn't the FDA doing clinical trials for HIFU in cases of recurrence after initial IMRT?
+I do not know if there are clinical trials for HIFU for patients with radiation failure.
+At Cleveland Clinic, Dr. Stephen Jones and Dr. David Levy utilize prostate cryoablation for recurrence after radiation failure in selected patients.
+What clinical trials would you recommend for prostate cancer metastases to bone?
+There are numerous clinical trials.
+Here is the link to ones at Cleveland Clinicclevelandclinic.org/research/clinical_trials.
+You can also check the National Institutes of Health (NIH) Web site atwww.clinicaltrials.gov.
+What effect have you seen in prostate health of avid cyclists who spend a lot of time sitting on a bicycle seat?
+I have not seen any effects, but many cyclists now use seats with cutouts that prevent perineal pressure.
+I enjoyed it!
+Thanks.

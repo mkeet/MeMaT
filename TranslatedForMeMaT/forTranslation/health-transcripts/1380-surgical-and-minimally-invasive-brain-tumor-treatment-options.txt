@@ -1,0 +1,83 @@
+Every year in the United States, more than 300,000 people are diagnosed with a brain tumor, either primary or metastasized.
+Primary brain tumors are those that arise within the brain itself, unlike metastatic tumors that travel to the brain from cancer that has formed in another part of the body.
+Today’s medical advancements now offer state-of-the-art surgical treatment options, including many minimally invasive techniques, to provide brain tumor patients with new hope for managing their disease.
+I have a meningioma that my physician says should be left alone, except for "checking" an MRI every 6 months.
+How do I live with that?Thanks.
+We treat the individual patient, not pictures (MRIs).
+If the patient has an incidental finding that appears to be a meningioma, and if is not producing symptoms, the recommended treatment is actually observation.
+An MRI every 3, 6, and 12 months is the common practice we follow.
+We continue to observe the tumor every year.
+If the tumor starts to produce symptoms and is growing, the tumor should be removed OR treated with radiosurgery.
+Are primary brain tumors diagnosed or treated differently than metastasized brain tumors?
+Primary brain tumors are treated differently based on the diagnosis.
+Brain tumors can be extra-axial tumors (outside of the brain), and there are tumors that are inside of the brain.
+Based on the diagnosis, size, location, etc., we can decide if we are going to do tumor resection or not.
+If you are diagnosed with a brain tumor, what are the possible treatment options?
+Can I treat my metastasized brain tumor while I am still receiving chemo/radiation for my primary cancer?
+Yes, but this all depends upon what kind of chemotherapy you are receiving.
+Some types of chemotherapy need to be stopped for at least 2 weeks to a month before the brain tumor treatment can commence due to the risk of bleeding.
+Are there different treatment options for an adult diagnosed with a brain tumor, versus a child diagnosed with a brain tumor?
+Most pediatric brain tumors are different than adult brain tumors.
+There are different ways to treat different tumors depending on the diagnosis.
+It is difficult to answer this question, but the frequency and the diagnosis of the types of brain tumors in children are very different than the brain tumors in adults.
+How long will I have to wait after having tumor resection surgery before I can begin subsequent radiation or chemotherapy to ensure my brain tumor is thoroughly treated?
+Once we do surgery, we try to do radiation as soon as possible (within about three weeks).
+Next, we will do radiation in conjunction with chemotherapy for 6 weeks.
+This is then stopped for one month, and we follow up with an MRI.
+Chemotherapy is resumed for 6 to 12 months.
+What are the most effective non-surgical treatment options available for treating a brain tumor?
+This depends on the type of brain tumor.
+One option is treatment with radiosurgery; another one could be chemotherapy.
+Additionally, there are some tumors that can go untreated and just need to be observed.
+What is the average recovery time for having a brain tumor removed with surgery?
+If everything goes well, and there are no complications from the surgery, patients are discharged from the hospital three days after surgery.
+The healing process for the skin incision can take ten days.
+I see Accutane being prescribed for some brain tumor patients.
+How is that drug helpful for brain tumors?
+Accutane® (isotretinoin) is not a standard of care treatment, but it is being used in a clinical trial.
+It is medication that has shown a strategic benefit when combined with Temodar® (temozolomide), another chemotherapy agent.
+There is no magic bullet to treat brain cancer, but when patients do not respond well to this treatment, we can look to the clinical trials like those for Accutane.
+I have heard that Avastin® (bevacizumab) is considered the "last chance" drug when all else fails.
+Is this true, or is Avastin being used also for newly diagnosed glioblastoma?
+Avastin is the second FDA-approved drug for glioblastomas.
+The standard of care is the Stupp protocol that includes radiation and chemotherapy with Temodar.
+When this standard of care fails, Avastin is one option or any other clinical trial that is available for glioblastomas.
+Again, there is no "magic bullet" for brain cancer, but there are some treatments and clinical trials out in the market that can increase the quality of life of the patients in order to prolong the window of survival and open opportunities for treatment.
+I know that Cleveland Clinic is very active in offering a number of clinical trials for the treatment of high-grade glioblastomas.I am currently in consideration for the Tocagen trials, but is there anything you know of that I should also be considering?
+Cleveland Clinic does use the NeuroBlate® or AutoLITT® system.
+This is a minimally invasive surgical approach in which we use a laser probe that goes directly to the tumor.
+We then basically burn the malignant cells with the laser with very precise accuracy.
+For more information about this procedure you can visit clevelandclinic.org/autolitt.
+I have heard of a number of radiosurgery options for treating brain tumors.What is the difference between CyberKnife®, Novalis®, Gamma Knife®, etc.?
+Gamma Knife is a stereotactic radiosurgery treatment where the target of radiation is determined based on Cartesian coordinates (a way of pinpointing an exact location within a three dimensional space).With Gamma Knife, the patient’s head is placed in a frame that is attached by pins.
+Novalis and Cyber Knife procedures are different in that a linear accelerator is used to target treatment location.
+They use a mesh fusion to immobilize the patient because they do not use a head frame.
+What risks are associated with radiosurgery?
+Risks all depend upon where the lesion is located in the brain.
+The most important thing about radiosurgery is being able to receive this treatment in a certified facility that has a team of medical physicists, a radiation oncologist, and a neurosurgeon.
+It is necessary to have the three specialists to make this treatment more consistent, safe, and accurate.
+What types of brain tumors can the Gamma Knife treat?
+Most types of brain tumors can be treated using Gamma Knife.
+The Radiation Oncology Group, an association that regulates the radiation treatment, has mentioned there is a reduction in the use of radiosurgery in gliomas, but most of the other tumors can use Gamma Knife as one of the tools of treatment as a primary therapy or as a secondary therapy.
+Is there a limit on the number of times a glioblastoma patient can receive proton therapy?
+For glioblastoma, proton therapy is not the first treatment option.
+For a glioblastoma, the standard of care is maximum surgical resection followed by chemo/radiation.
+How common is the PTEN mutation found in gliomas.
+My 12-year-old had a low-grade cerebellar tumor removed.
+Also, I have heard some speculation that this mutation has been found in patients with glioblastoma multiforme (GBM).
+If so, how common is it?
+PTEN mutation occurs in about 20% of glioblastomas, but is rare in low-grade gliomas.
+The presence of this mutation makes us aware that we must closely follow up to confirm that it does not turn into a high-grade glioblastoma.
+PTEN mutation in low-grade gliomas is excessively rare.
+There are no clinical trials that have been focused in a prognostic factor for these conditions.
+I was diagnosed with a tumor on my pituitary.
+Right now the doctor is doing an MRI once a year to see if it grows.
+I am really worried.I have been getting headaches and wanted to know if this is a normal follow up on a pituitary tumor.
+The follow-up care will be different in every case, but in general, yes.
+There is a 50% chance of a relationship between headaches secondary to pituitary tumors.
+For this reason, headache symptoms are not necessarily an indication for tumor resection (surgery).
+Tumor resection will not guarantee that headaches will go away.
+What is the best current treatment available for skull base tumors like chordoma?
+Chordoma of the clivus is a difficult lesion to treat.
+Sometimes you are required to do a surgical resection when the tumor is producing too much mass and the size of the mass compresses the brain stem.
+There is adjunct therapy (in addition to) for the treatment known as Gamma Knife® radiosurgery or proton beam therapy.
